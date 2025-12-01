@@ -1,9 +1,9 @@
 # 变量的类型、定义、赋值
-num_1 = 1
-num_2 = 2.0
-num_3 = 1 + 5j
-num_4 = "ture"
-num_5 = False
+num_1 = 1 # 整数
+num_2 = 2.0 # 浮点数
+num_3 = 1 + 5j # 复数
+num_4 = "ture" # 字符串
+num_5 = False # 布尔值
 
 print ("num_1: ", num_1, "type: ", type(num_1))
 print ("num_2: ", num_2, "type: ", type(num_2))
